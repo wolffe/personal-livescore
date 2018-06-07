@@ -1,0 +1,36 @@
+#online { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen-Sans", "Ubuntu", "Cantarell", "Helvetica Neue", sans-serif; }
+#online, .pl_archive { background-color: #333333; padding: 8px; color: #ffffff; text-align: left; text-shadow: none; }
+#online *, .pl_archive *, font-family: inherit; {
+	box-sizing: border-box;
+}
+
+#online-embed-code textarea {
+    box-sizing: border-box;
+    width: 100% !important;
+    font-family: Consolas, "Andale Mono WT", "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono", "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L", Monaco, "Courier New", Courier, monospace !important;
+    font-size: 14px;
+    padding: 8px;
+}
+
+.pl-header { font-size: larger; text-transform: uppercase; border-bottom: 1px solid #5dba00; margin: 16px 0 16px 0; font-weight: 700; font-size: 20; line-height: 22px; }
+.pl-category { background-color: #5dba00; display: inline-block; padding: 0 8px; }
+
+.pl-details { font-size: smaller; text-transform: uppercase; border-bottom: 3px solid #5dba00; margin: 16px 0 0 0; font-weight: 400; }
+
+.pl-column-large { width: 60%; box-sizing: border-box; display: inline-block; border-bottom: 1px solid #666666; font-weight: 300; font-size: 16px; }
+.pl-column-small { width: 40%; box-sizing: border-box; padding: 0 8px; display: inline-block; border-bottom: 1px solid #666666; border-left: 1px solid #666666; color: #deff00; font-weight: 700; font-size: 16px; }
+
+.pl-active-live { margin: 0 0 0 16px; color: #ff0000; display: inline; font-weight: 400; float: right; }
+.pl-active-upcoming { margin: 0 0 0 16px; color: #5dba00; display: inline; font-weight: 400; float: right; }
+
+.pl-archive-link { font-size: smaller; margin: 24px 0 0 0; font-weight: 400; }
+.pl-archive-link a { color: #5dba00; text-decoration: underline; }
+.pl-archive-link a:hover { color: #ffffff; text-decoration: none; }
+
+.pl-set { font-size: smaller; font-weight: 400; color: #eeeeee; }
+
+.pl-ad-link { display: block; height: 90px; line-height: 90px; margin: 16px 0 0 0; background-color: #222222; border: 1px solid #444444; font-weight: 400; text-align: center; }
+.pl-ad-link a { color: #999999; }
+
+.pl-goals-container { padding: 16px; }
+.pl-opacity { color: #999999; font-size: smaller; }

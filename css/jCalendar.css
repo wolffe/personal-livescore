@@ -1,0 +1,43 @@
+.jc_date { border: 1px black solid; vertical-align: middle; color: red; }
+.jc_cell_title {
+	background-color: #95A5A6;
+	text-align: center;
+    font-weight: 600;
+}
+.jc_cell_weekday {
+	background-color:#ECF0F1;
+	text-align:center;
+	cursor: pointer;
+}
+.jc_cell_weekend {
+	background-color:#BDC3C7;
+	text-align:center;
+	cursor: pointer;
+}
+.jc_cell_current:hover,
+.jc_cell_weekend:hover,
+.jc_cell_weekday:hover {
+    background-color: #34495E;
+    color: #ECF0F1;
+}
+.jc_cell_disabled {
+	background-color: #FFFFFF;
+	text-align:center;
+}
+.jc_cell_current {
+	background-color:#95A5A6;
+	text-align:center;
+	cursor: pointer;
+	color: #ffffff !important;
+}
+.jcalendar_parent{
+	z-index: 999;
+	position: absolute;
+    border: 1px solid #7F8C8D;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.04);
+}
+
+.pl-calendar { opacity: 0.6; }
+.pl-calendar:hover { opacity: 1; }
+
+.inner-icon { vertical-align: middle; }

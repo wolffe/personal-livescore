@@ -1,0 +1,53 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Personal Livescore\n"
+"POT-Creation-Date: 2014-08-12 11:04-0000\n"
+"PO-Revision-Date: 2014-08-12 11:04-0000\n"
+"Last-Translator: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language-Team: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.5\n"
+"X-Poedit-KeywordsList: _;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../includes/pl-refresh.php:12
+msgid "LIVE"
+msgstr ""
+
+#: ../includes/pl-refresh.php:16
+msgid "SET"
+msgstr ""
+
+#: ../includes/pl-refresh.php:55 ../livescore.php:136 ../livescore.php:634
+msgid "Archive"
+msgstr ""
+
+#: ../livescore-embed.php:27 ../livescore.php:740
+msgid "Livescore is loading..."
+msgstr ""
+
+#: ../livescore.php:133
+msgid "Settings"
+msgstr ""
+
+#: ../livescore.php:134 ../livescore.php:289
+msgid "Livescore Manager"
+msgstr ""
+
+#: ../livescore.php:135 ../livescore.php:534
+msgid "Livescore Manager (Upcoming)"
+msgstr ""
+
+#: ../livescore.php:137 ../livescore.php:443 ../livescore.php:493
+msgid "Goal Manager"
+msgstr ""
+
+#: ../livescore.php:160
+msgid "Livescore Settings"
+msgstr ""
